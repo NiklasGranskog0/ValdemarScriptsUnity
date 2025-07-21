@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d7f5304a81768f34eaf8b3b93eeb8aa6, type: 3}
+  m_Name: New Blackboard Data
+  m_EditorClassIdentifier: 
+  entries:
+  - keyName: TestKey
+    valueType: 5
+    value:
+      type: 5
+      boolValue: 1
+      intValue: 0
+      floatValue: 0
+      stringValue: 
+      vector3Value: {x: 0, y: 0, z: 0}
+      transformValue: {fileID: 0}
+      objectValue: {fileID: 102900000, guid: 69c057dd00a96bb458debe6e22795e6e, type: 3}
