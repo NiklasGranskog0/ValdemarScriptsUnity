@@ -1,0 +1,43 @@
+namespace Assets.Scripts.Framework.Enums
+{
+    public static class Enemy
+    {
+        public enum Animations
+        {
+            Walk,
+            BattleCry,
+            DodgeBackwards,
+            DodgeRollForward,
+            IdleWithWeapon,
+            JumpAttack,
+            Kick,
+            Melee1HDoubleSwing,
+            Melee1HSwingAlt,
+            Melee1HSwing,
+            IdleWithWeapon001,
+            Melee2HSwingCombo,
+            WalkWithWeapon,
+            WalkStart,
+            WalkLookRightWithWeapon,
+            WalkBackwardsWithWeapon,
+            WalkBackwardsWeapon,
+            Walk180Turn,
+            WalkBackwards,
+            StandingHurtRight,
+            StandingHurtLeft,
+            StandingBlocking,
+            StandingBlockHit,
+            RunWithWeapon,
+            RunLookRight,
+            RunLookLeft,
+            RunIntoStop,
+            RunIntoDodgeRollForward,
+            RunBackwards,
+            RunAlt,
+            Run180Turn,
+            Run,
+            MeleeBackhand1HSwing,
+            None,
+        }
+    }
+}
